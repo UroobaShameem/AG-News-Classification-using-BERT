@@ -1,7 +1,3 @@
-Here's an updated README with a detailed introduction, instructions on running the code, and an index:
-
----
-
 # AG News Classification Project
 
 ## Table of Contents
